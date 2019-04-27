@@ -1,0 +1,2 @@
+# leetcode
+less is more
